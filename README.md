@@ -1,1 +1,6 @@
-# DLS_Computer_Vision_2024
+# Deep Learning School, Computer Vision, Spring 2024
+
+### В репозитории опубликованы некоторые интересные ДЗ и проекты, сделанные в ходе обучения:
+
+
+---
